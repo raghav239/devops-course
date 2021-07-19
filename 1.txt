@@ -1,4 +1,7 @@
 1. burger
+<<<<<<< HEAD
 2. Pizza
 
 3. Regular Drink
+=======
+>>>>>>> parent of 9f79b74 (adding 2.Pizza)
